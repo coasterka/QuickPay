@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/QuickPay/obj
+/Contracts/obj
+/QuickPay/bin/Debug/netcoreapp2.1
+/Contracts/bin/Debug/netcoreapp2.1
+/LoggerService/bin/Debug/netcoreapp2.1
+/LoggerService/obj
